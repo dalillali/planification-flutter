@@ -1,3 +1,6 @@
-# planification_app
+# Planification d'Événements Sportifs
 
-A new Flutter project.
+L'objectif de ce projet est de développer une application de Planification d'Événements
+Sportifs qui permettra aux utilisateurs de créer, de gérer, de promouvoir et de participer à des
+événements sportifs. 
+
